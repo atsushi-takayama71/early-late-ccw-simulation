@@ -27,14 +27,6 @@ The current version includes:
 - The primary contrast is summarized as a weighted risk ratio based on weighted empirical 12-month risks.
 - The current public version includes the primary analyses only.
 
-## Planned additions
-
-The following components may be added later:
-
-- code for the Monte Carlo bias / RMSE analyses
-- code for the secondary analyses excluding pre-treatment events
-- additional reproducibility notes and figure-specific scripts, if needed
-
 ## Software requirements
 
 The code was written in R and uses common packages for data manipulation, modeling, and plotting.
